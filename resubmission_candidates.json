@@ -1,0 +1,20 @@
+[
+  {
+    "claim_id": "A123",
+    "resubmission_reason": "Missing modifier",
+    "source_system": "alpha",
+    "recommended_changes": "Add correct modifier and resubmit"
+  },
+  {
+    "claim_id": "A124",
+    "resubmission_reason": "Incorrect NPI",
+    "source_system": "alpha",
+    "recommended_changes": "Review NPI number and resubmit"
+  },
+  {
+    "claim_id": "A127",
+    "resubmission_reason": "Prior auth required",
+    "source_system": "alpha",
+    "recommended_changes": "Obtain prior authorization and resubmit"
+  }
+]
