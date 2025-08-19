@@ -51,3 +51,11 @@ Here’s a breakdown of what has been completed in this project:
 ---
 
 ## 📂 Project Structure
+📁 healthcare-claims-pipeline
+├──date
+   ├── emr_beta_sample.json # Input dataset
+   ├── process_claims.py # Main Python script for processing claims
+├── README.md # Project documentation (this file)
+├──pipeline.py
+├──resubmission_candidates.json
+
